@@ -2,4 +2,10 @@ hello git
 
 hello merging v2
 
+
 fixing common merging error
+
+manual merging
+
+local fixing features
+
