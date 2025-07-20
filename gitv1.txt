@@ -3,3 +3,5 @@ hello git
 hello merging v2
 
 manual merging
+
+local fixing features
